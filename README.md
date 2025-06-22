@@ -1,0 +1,2 @@
+# ms-inventario-bff
+ferremas
